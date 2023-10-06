@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vortre127
-- 👀 I’m interested in ... Construction, Landscaping, Programming, and Human & Animal Care
-- 🌱 I’m currently learning ... Languages (Spanish & Japanese), Web Development, Zoology
-- 💞️ I’m looking to collaborate on ... Algorythm Development, Bug Fixing, or Game Development
-- 📫 How to reach me ... Message me on here for now
+- Hi, I’m @vortre127
+- My interests are in Nature (plants and animals), Health Care, and Digital & Physical Engineering
+- I’m currently learning Linguistics of English, Spanish, German, and Japanese; IT of Full Stack Web, Mobile Application, 3D Unity Development
+- I’m looking to collaborate on ... Algorythm Development, Bug Fixing, or Game Development
+- How to reach me ... Message me on here for now
 
 <!---
 vortre127/vortre127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
